@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with .NET CLR
 - 📫 How to reach me: liuyusong001127@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonLiu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eason Liu)](https://github.com/anuraghazra/github-readme-stats)
 
