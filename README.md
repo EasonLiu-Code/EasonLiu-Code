@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with .NET CLR
 - 📫 How to reach me: liuyusong001127@gmail.com
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasonLiu)
